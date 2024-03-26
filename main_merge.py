@@ -8,7 +8,6 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import csv
 import random
-
 interval = 5
 mode = 'echo' # or CAMUS
 filter_small_block_threshold = 300 // 8 # or 300 for CAMUS
